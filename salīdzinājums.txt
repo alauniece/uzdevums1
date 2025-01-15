@@ -1,0 +1,45 @@
+Salīdzinājums starp MIT un Boost Software 1.0 licencēm
+
+MIT licence-
+Atļaujas-
+	Programmu var izmantot komerciālos projektos bez papildus maksas.
+	Programmatūru var brīvi izplatīt.
+	Lietotāji drīkst modificēt kodu savām vajadzībām.
+	Nav ierobežojumi personīgajai lietošanai.
+Nosacījumi-
+	Darbos jāiekļauj oriģinālais licences un autortiesību teksts.
+Ierobežojumi-
+	Licencei nav garantijas.
+	Autors nav atbildīgs par nekādām sekām, ko var radīt programmatūras izmantošana.
+
+Boost Software 1.0 licence-
+Atļaujas-
+	Var tikt brīvi izmantota komerciāliem mērķiem.
+	Brīva programmatūras izplatīšana.
+	Ļauj veikt izmaiņas personīgai lietošanai.
+	Nav ierobežojumi personīgai lietošanai
+Nosacījumi-
+	Licences un autortiesības ir jāiekļauj avota koda izplatījumā. (Izņemot, ja kods tiek izplatīts binārā formātā.)
+Ierobežojumi-
+	Licencei nav garantijas.
+	Autors nav atbildīgs par nekādām sekām, ko var radīt programmatūras izmantošana.
+
+
+Galvenās līdzības-
+	Abas var brīvi izmantot, ļaujot izplatīt un modificēt programmu.
+	Licences atļauj gan komerciālo, gan privāto pielietojumu.
+	Vienīgā prasība licencēm ir saglabāt autortiesības un licences paziņojumu.
+	Ir skaidri norādīts, ka licences nenesīs atbildību par riskiem, un ka nav garantijas.
+
+
+Galvenās atšķirības-
+	MIT licences paziņojums jāiekļauj gan avota kodā, gan binārā izplatījumā, kamēr Boost Software 1.0 licence jāiekļauj tikai avota kodā. 
+	Mērķis MIT licencē ir būt plašai un vispārīgai lietošanai jebkurā programmā, toties Boost Software 1.0 mērķis ir izplatīt kādu konkrētāku avota kodu.
+	MIT licence ir populāra visā atvērtā koda sistēmā, bet Boost Software 1.0 ir vairāk izplatīta BoostC++ bibliotēkās un līdzīgos projektos.
+
+
+Secinājumi-
+	Priekš maksimālas vienkāršības un plašas izplatīšanas elestību labāk izvēlēties MIT licenci.
+	Licence, kas ir piemērotāka tikai avota kodam būtu Boost Software 1.0. licence.
+
+Abas licences kopumā dod vienādu brīvību lietotājam ar minimālām juridiskām saistībām, padarot tās populāras pirmkoda kopienā.
