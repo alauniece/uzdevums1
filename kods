@@ -1,1 +1,68 @@
-uikujrftth
+Brīvkoda programmatūra- programma, kura ir pieejama ikvienam. To var brīvi izmantot, modificēt un izplatīt.
+  Tās galvenās funkcijas-
+    1. Publisks, pieejams visiem;
+    2. Licence ļauj izmantot programmu jebkādiem mērķiem, mainīt kodu, dalīties ar programmatūru;
+    3. Tiek uzturēta ar kopienes palīdzību;
+    4. Brīvkoda programmatūra ir bezmaksas;
+    5. Ir drošības un privātuma atbalsts, ko pats lietotājs var izmantot.
+
+Slēgtā progrsammatūra- programmatūra, kuras kods nav pieejams lietotājiem. Tās tiek radītas priekš konkrētiem uzņēmumiem, kur tiek saglabātas visas autortiesības.
+  Tās galvenās funkcijas-
+   1. Avotu kods nav publisks (Lietotāji nevar pārbaudīt vai mainīt);
+   2. Var izmantot tikai saksaņā ar licences noteikumiem;
+   3. Lietotāji ir atkarīgi no izstrādātāja uzturēšanas;
+   4. Programmatūra visbiežāk tiek pārdota kā produkts vai pakalpojums;
+   5. Lietotāji nevar pārliecināties par koda drošību;
+   6. Parasti tiek paredzēta komerciālai peļņai un tiek attīstīta ar biznesa mērķiem.
+
+
+
+
+
+
+
+Salīdzinājums starp MIT un Boost Software 1.0 licencēm
+
+MIT licence-
+  Atļaujas-
+    1. 	Programmu var izmantot komerciālos projektos bez papildus maksas.
+    2. Programmatūru var brīvi izplatīt.
+    3. Lietotāji drīkst modificēt kodu savām vajadzībām.
+    4. Nav ierobežojumi personīgajai lietošanai.
+  Nosacījumi-
+    1. Darbos jāiekļauj oriģinālais licences un autortiesību teksts.
+  Ierobežojumi-
+    1. Licencei nav garantijas.
+    2. Autors nav atbildīgs par nekādām sekām, ko var radīt programmatūras izmantošana.
+
+Boost Software 1.0 licence-
+  Atļaujas-
+    1. Var tikt brīvi izmantota komerciāliem mērķiem.
+    2. Brīva programmatūras izplatīšana.
+    3. Ļauj veikt izmaiņas personīgai lietošanai.
+    4. Nav ierobežojumi personīgai lietošanai
+  Nosacījumi-
+    1. Licences un autortiesības ir jāiekļauj avota koda izplatījumā. (Izņemot, ja kods tiek izplatīts binārā formātā.)
+  Ierobežojumi-
+    1. Licencei nav garantijas.
+    2. Autors nav atbildīgs par nekādām sekām, ko var radīt programmatūras izmantošana.
+
+
+  Galvenās līdzības-
+    1. Abas var brīvi izmantot, ļaujot izplatīt un modificēt programmu.
+    2. Licences atļauj gan komerciālo, gan privāto pielietojumu.
+    3. Vienīgā prasība licencēm ir saglabāt autortiesības un licences paziņojumu.
+    4. Ir skaidri norādīts, ka licences nenesīs atbildību par riskiem, un ka nav garantijas.
+
+
+  Galvenās atšķirības-
+    1. MIT licences paziņojums jāiekļauj gan avota kodā, gan binārā izplatījumā, kamēr Boost Software 1.0 licence jāiekļauj tikai avota kodā. 
+    2. Mērķis MIT licencē ir būt plašai un vispārīgai lietošanai jebkurā programmā, toties Boost Software 1.0 mērķis ir izplatīt kādu konkrētāku avota kodu.
+    3. MIT licence ir populāra visā atvērtā koda sistēmā, bet Boost Software 1.0 ir vairāk izplatīta BoostC++ bibliotēkās un līdzīgos projektos.
+
+
+  Secinājumi-
+    1. Priekš maksimālas vienkāršības un plašas izplatīšanas elestību labāk izvēlēties MIT licenci.
+    2. Licence, kas ir piemērotāka tikai avota kodam būtu Boost Software 1.0. licence.
+
+Abas licences kopumā dod vienādu brīvību lietotājam ar minimālām juridiskām saistībām, padarot tās populāras pirmkoda kopienā.
